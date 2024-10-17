@@ -78,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1729086405038</updated>
       <workItem from="1729086406337" duration="5863000" />
-      <workItem from="1729177771476" duration="698000" />
+      <workItem from="1729177771476" duration="1809000" />
     </task>
     <task id="LOCAL-00001" summary="Added FXMLs">
       <option name="closed" value="true" />
@@ -93,6 +93,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added FXMLs" />
